@@ -1,6 +1,5 @@
 import React from "react";
 import arrow from "../assets/images/icons/arrow.svg";
-import Bg3 from "../assets/images/bg3.svg";
 import Handleft from "../assets/images/Handleft.svg";
 import HandB from "../assets/images/HandB.svg";
 import DrugR from "../assets/images/DrugR.svg";
