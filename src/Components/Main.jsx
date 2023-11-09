@@ -10,7 +10,7 @@ import video from "../assets/logo.webp";
 function Main() {
   return (
     <section
-      className="py-32 w-full h-screen flex justify-center items-center"
+      className="py-48 w-full min-h-screen flex justify-center items-center"
       id="main"
     >
       <img
@@ -47,7 +47,7 @@ function Main() {
             buy now <img src={arrow} alt="" />
           </a>
         </div>
-        <img src={video} alt="" />
+        <img src={video} alt="" className="w-[20rem]" />
       </div>
     </section>
   );
