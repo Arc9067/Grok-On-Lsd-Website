@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "ClashDisplayReg";
+  src: url(./assets/fonts/ClashDisplay-Regular.otf);
+}
+
+@font-face {
+  font-family: "ClashDisplayMed";
+  src: url(./assets/fonts/ClashDisplay-Medium.otf);
+}
+
+@font-face {
+  font-family: "ClashDisplayBold";
+  src: url(./assets/fonts/ClashDisplay-Bold.otf);
+}
+
+#hero {
+  background: url(./assets/images/bg2.gif) center center no-repeat;
+  background-size: 100% 100%;
+}
+
+.strokeit {
+  -webkit-text-stroke: 1px black;
+}
+
+/* @layer {
+  #main {
+    background: url(./assets/images/Bg3.svg) no-repeat;
+    @apply bg-top bg-center bg-cover;
+    background-size: cover;
+  }
+} */
