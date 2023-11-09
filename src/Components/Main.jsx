@@ -3,7 +3,7 @@ import arrow from "../assets/images/icons/arrow.svg";
 import Handleft from "../assets/images/Handleft.svg";
 import HandB from "../assets/images/HandB.svg";
 import DrugR from "../assets/images/DrugR.svg";
-import BottleB from "../assets/images/BottleB.svg";
+import BottleB from "../assets/images/Bottleb.svg";
 import About from "./About";
 
 function Main() {
