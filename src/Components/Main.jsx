@@ -5,7 +5,7 @@ import HandB from "../assets/images/HandB.svg";
 import DrugR from "../assets/images/DrugR.svg";
 import BottleB from "../assets/images/Bottleb.svg";
 import About from "./About";
-import video from "../assets/logo.webm";
+import video from "../assets/logo.webp";
 
 function Main() {
   return (
@@ -47,7 +47,7 @@ function Main() {
             buy now <img src={arrow} alt="" />
           </a>
         </div>
-        <video src={video} muted autoPlay loop alt="" />
+        <img src={video} alt="" />
       </div>
     </section>
   );
