@@ -1,6 +1,6 @@
 import React from "react";
 import foot from "../assets/images/footerImg.svg";
-import logo from "../assets/logo.webp";
+import logo from "../assets/logo3.webp";
 import telegram from "../assets/images/icons/telegram.svg";
 import twitter from "../assets/images/icons/twitter.svg";
 import chart from "../assets/images/icons/chart.svg";

@@ -5,7 +5,7 @@ import HandB from "../assets/images/HandB.svg";
 import DrugR from "../assets/images/DrugR.svg";
 import BottleB from "../assets/images/Bottleb.svg";
 import About from "./About";
-import video from "../assets/logo2.webp";
+import video from "../assets/logo3.webp";
 
 function Main() {
   return (
