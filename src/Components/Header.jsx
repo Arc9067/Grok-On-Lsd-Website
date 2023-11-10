@@ -17,14 +17,14 @@ function Header() {
             <h2 className="hidden md:block">GROKonLSD</h2>
           </a>
           <div className="flex items-center gap-3">
-            <a href="">
+            <a href="https://t.me/GROKonTABS">
               <img src={telegram} alt="telegram icon" />
             </a>
             <a href="https://twitter.com/GROKonLSD">
-              <img src={twitter} alt="telegram icon" />
+              <img src={twitter} alt="twitter icon" />
             </a>
             <a href="">
-              <img src={chart} alt="telegram icon" />
+              <img src={chart} alt="chart icon" />
             </a>
           </div>
         </div>
