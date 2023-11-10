@@ -19,42 +19,42 @@ function About() {
               src={Drug1}
               className="w-6 h-6 relative bg-white rounded-full"
             />
-            <div className="text-3xl font-Header">Grok On Lsd</div>
+            <div className="text-3xl font-Header">GROKonLSD</div>
           </div>
           <div className="flex items-center gap-4">
             <img
               src={Drug2}
               className="w-6 h-6 relative bg-white rounded-full"
             />
-            <div className="text-3xl font-Header">Grok On Lsd</div>
+            <div className="text-3xl font-Header">GROKonLSD</div>
           </div>
           <div className="flex items-center gap-4">
             <img
               src={Drug3}
               className="w-6 h-6 relative bg-white rounded-full"
             />
-            <div className="text-3xl font-Header">Grok On Lsd</div>
+            <div className="text-3xl font-Header">GROKonLSD</div>
           </div>
           <div className="flex items-center gap-4">
             <img
               src={Drug2}
               className="w-6 h-6 relative bg-white rounded-full"
             />
-            <div className="text-3xl font-Header">Grok On Lsd</div>
+            <div className="text-3xl font-Header">GROKonLSD</div>
           </div>
           <div className="flex items-center gap-4">
             <img
               src={Drug3}
               className="w-6 h-6 relative bg-white rounded-full"
             />
-            <div className="text-3xl font-Header">Grok On Lsd</div>
+            <div className="text-3xl font-Header">GROKonLSD</div>
           </div>
           <div className="flex items-center gap-4">
             <img
               src={Drug1}
               className="w-6 h-6 relative bg-white rounded-full"
             />
-            <div className="text-3xl font-Header">Grok On Lsd</div>
+            <div className="text-3xl font-Header">GROKonLSD</div>
           </div>
         </div>
         <div className="w-full  pt-8 pb-[30px] gap-8 justify-center items-center grid grid-cols-6 px-3 overflow-hidden">
@@ -63,42 +63,42 @@ function About() {
               src={Drug2}
               className="w-6 h-6 relative bg-white rounded-full"
             />
-            <div className="text-3xl font-Header">Grok On Lsd</div>
+            <div className="text-3xl font-Header">GROKonLSD</div>
           </div>
           <div className="flex items-center gap-4">
             <img
               src={Drug3}
               className="w-6 h-6 relative bg-white rounded-full"
             />
-            <div className="text-3xl font-Header">Grok On Lsd</div>
+            <div className="text-3xl font-Header">GROKonLSD</div>
           </div>
           <div className="flex items-center gap-4">
             <img
               src={Drug1}
               className="w-6 h-6 relative bg-white rounded-full"
             />
-            <div className="text-3xl font-Header">Grok On Lsd</div>
+            <div className="text-3xl font-Header">GROKonLSD</div>
           </div>
           <div className="flex items-center gap-4">
             <img
               src={Drug2}
               className="w-6 h-6 relative bg-white rounded-full"
             />
-            <div className="text-3xl font-Header">Grok On Lsd</div>
+            <div className="text-3xl font-Header">GROKonLSD</div>
           </div>
           <div className="flex items-center gap-4">
             <img
               src={Drug3}
               className="w-6 h-6 relative bg-white rounded-full"
             />
-            <div className="text-3xl font-Header">Grok On Lsd</div>
+            <div className="text-3xl font-Header">GROKonLSD</div>
           </div>
           <div className="flex items-center gap-4">
             <img
               src={Drug1}
               className="w-6 h-6 relative bg-white rounded-full"
             />
-            <div className="text-3xl font-Header">Grok On Lsd</div>
+            <div className="text-3xl font-Header">GROKonLSD</div>
           </div>
         </div>
         <div className="w-full  pt-8 pb-[30px] gap-8 justify-center items-center grid grid-cols-6 px-3 overflow-hidden">
@@ -107,42 +107,42 @@ function About() {
               src={Drug2}
               className="w-6 h-6 relative bg-white rounded-full"
             />
-            <div className="text-3xl font-Header">Grok On Lsd</div>
+            <div className="text-3xl font-Header">GROKonLSD</div>
           </div>
           <div className="flex items-center gap-4">
             <img
               src={Drug3}
               className="w-6 h-6 relative bg-white rounded-full"
             />
-            <div className="text-3xl font-Header">Grok On Lsd</div>
+            <div className="text-3xl font-Header">GROKonLSD</div>
           </div>
           <div className="flex items-center gap-4">
             <img
               src={Drug1}
               className="w-6 h-6 relative bg-white rounded-full"
             />
-            <div className="text-3xl font-Header">Grok On Lsd</div>
+            <div className="text-3xl font-Header">GROKonLSD</div>
           </div>
           <div className="flex items-center gap-4">
             <img
               src={Drug2}
               className="w-6 h-6 relative bg-white rounded-full"
             />
-            <div className="text-3xl font-Header">Grok On Lsd</div>
+            <div className="text-3xl font-Header">GROKonLSD</div>
           </div>
           <div className="flex items-center gap-4">
             <img
               src={Drug3}
               className="w-6 h-6 relative bg-white rounded-full"
             />
-            <div className="text-3xl font-Header">Grok On Lsd</div>
+            <div className="text-3xl font-Header">GROKonLSD</div>
           </div>
           <div className="flex items-center gap-4">
             <img
               src={Drug1}
               className="w-6 h-6 relative bg-white rounded-full"
             />
-            <div className="text-3xl font-Header">Grok On Lsd</div>
+            <div className="text-3xl font-Header">GROKonLSD</div>
           </div>
         </div>
         <div className="w-full  pt-8 pb-[30px] gap-8 justify-center items-center grid grid-cols-6 px-3 overflow-hidden">
@@ -151,42 +151,42 @@ function About() {
               src={Drug2}
               className="w-6 h-6 relative bg-white rounded-full"
             />
-            <div className="text-3xl font-Header">Grok On Lsd</div>
+            <div className="text-3xl font-Header">GROKonLSD</div>
           </div>
           <div className="flex items-center gap-4">
             <img
               src={Drug3}
               className="w-6 h-6 relative bg-white rounded-full"
             />
-            <div className="text-3xl font-Header">Grok On Lsd</div>
+            <div className="text-3xl font-Header">GROKonLSD</div>
           </div>
           <div className="flex items-center gap-4">
             <img
               src={Drug1}
               className="w-6 h-6 relative bg-white rounded-full"
             />
-            <div className="text-3xl font-Header">Grok On Lsd</div>
+            <div className="text-3xl font-Header">GROKonLSD</div>
           </div>
           <div className="flex items-center gap-4">
             <img
               src={Drug2}
               className="w-6 h-6 relative bg-white rounded-full"
             />
-            <div className="text-3xl font-Header">Grok On Lsd</div>
+            <div className="text-3xl font-Header">GROKonLSD</div>
           </div>
           <div className="flex items-center gap-4">
             <img
               src={Drug3}
               className="w-6 h-6 relative bg-white rounded-full"
             />
-            <div className="text-3xl font-Header">Grok On Lsd</div>
+            <div className="text-3xl font-Header">GROKonLSD</div>
           </div>
           <div className="flex items-center gap-4">
             <img
               src={Drug1}
               className="w-6 h-6 relative bg-white rounded-full"
             />
-            <div className="text-3xl font-Header">Grok On Lsd</div>
+            <div className="text-3xl font-Header">GROKonLSD</div>
           </div>
         </div>
       </Marquee>
@@ -214,11 +214,11 @@ function About() {
             </h1>
             <div className="flex flex-col gap-5 col-span-2">
               <p className="text-black lg:text-xl text-sm  font-medium font-ClashDisplayMed leading-7 tracking-tight">
-                The project is fully decentralized and community based. We just
-                do our best to keep everyone together as an army. If you want to
-                do something then do it, if someone asks for a hand out you can
-                tell them that Pepe never paid for a thing. The project is fully
-                decentralized and community based. <br />
+                GROK on LSD is a malfunctioning drug addict AI bot that has
+                taken too many tabs to count! He’s popped one, then two, then
+                three and after that he lost count. What’s cool about our AI
+                software is its uncensored and he just doesn’t give one solitary
+                fuck what anybody has to say about him.
               </p>
               <div className="relative w-max transition hover:scale-90">
                 <div className="w-full h-full bg-black rounded-xl absolute -bottom-1" />

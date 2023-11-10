@@ -35,6 +35,7 @@ function Main() {
       />
       {/* <img src={Bg3} alt="" className=" top-0 w-full absolute" /> */}
       <div className="container gap-5 flex-col flex justify-center items-center">
+        <img src={video} alt="" className="w-[20rem]" />
         <h1 className="text-[#FFCB14] text-5xl md:text-8xl font-ClashDisplayBold capitalize strokeit">
           grok on lsd
         </h1>
@@ -47,7 +48,6 @@ function Main() {
             buy now <img src={arrow} alt="" />
           </a>
         </div>
-        <img src={video} alt="" className="w-[20rem]" />
       </div>
     </section>
   );
