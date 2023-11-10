@@ -20,7 +20,7 @@ function Header() {
             <a href="">
               <img src={telegram} alt="telegram icon" />
             </a>
-            <a href="">
+            <a href="https://twitter.com/GROKonLSD">
               <img src={twitter} alt="telegram icon" />
             </a>
             <a href="">
