@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../assets/images/logo.svg";
+import logo from "../assets/logo.webp";
 import telegram from "../assets/images/icons/telegram.svg";
 import twitter from "../assets/images/icons/twitter.svg";
 import chart from "../assets/images/icons/chart.svg";
@@ -13,8 +13,8 @@ function Header() {
             href=""
             className="logo text-black flex items-center gap-2 font-ClashDisplayMed capitalize text-xl"
           >
-            <img src={logo} alt="" />
-            <h2 className="hidden md:block">grok on lsd</h2>
+            <img src={logo} alt="" className="w-[4rem]" />
+            <h2 className="hidden md:block">GROKonLSD</h2>
           </a>
           <div className="flex items-center gap-3">
             <a href="">

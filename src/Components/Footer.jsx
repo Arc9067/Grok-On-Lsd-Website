@@ -1,6 +1,6 @@
 import React from "react";
 import foot from "../assets/images/footerImg.svg";
-import logo from "../assets/images/logo.svg";
+import logo from "../assets/logo.webp";
 import telegram from "../assets/images/icons/telegram.svg";
 import twitter from "../assets/images/icons/twitter.svg";
 import chart from "../assets/images/icons/chart.svg";
@@ -16,8 +16,8 @@ function Footer() {
             href=""
             className="logo text-white flex items-center gap-2 font-ClashDisplayMed capitalize text-xl"
           >
-            <img src={logo} alt="" />
-            <h2 className="hin">grok on lsd</h2>
+            <img src={logo} alt="" className="w-[4rem]" />
+            <h2 className="hin">GROKonLSD</h2>
           </a>
           <p className="text-white text-sm font-normal font-['Clash Display'] leading-relaxed">
             Copyright © {new Date().getFullYear()} Israel All Rights Reserved.
